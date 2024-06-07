@@ -46,15 +46,15 @@ const history = [
 
   },
   {
-    role: "Assistant Project Manager",
+    role: "Web Administrator",
     organisation: "Tarawadee Inc.",
     startDate: "Sep, 2020",
     endDate: "Jan, 2018",
     experiences: [
-      "● Facilitated project meetings, ensuring clear communication through well-defined agendas and concise minutes.",
-      "● Organized and maintained comprehensive project documentation for future reference and knowledge transfer.",
-      "● Partnered with the project manager to define project scope, develop work breakdown structures (WBS), and create project plans.",
-      "● Monitored project budgets and expenditures, implementing corrective actions to ensure adherence to financial goals"
+      "● Regularly update website content and design.",
+      "● Ensure that websites are running efficiently and troubleshoot any issues that arise.",
+      "● Ensure that content is organized, accurate, and aligned with organizational goals.",
+      "● Troubleshoot and resolve issues related to website functionality, hosting, and domain management."
     ],
     imageSrc: "smiley.png"
   }
